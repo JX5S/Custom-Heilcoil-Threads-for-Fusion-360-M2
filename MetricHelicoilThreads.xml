@@ -6,6 +6,22 @@
   <Angle>60</Angle>
   <SortOrder>3</SortOrder>
   <ThreadSize>
+    <Size>2.00(M2)</Size>
+    <Designation>
+      <ThreadDesignation>M2x.4 Heli</ThreadDesignation>
+      <CTD>M2x.4 Heli</CTD>
+      <Pitch>.4</Pitch>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>2.72</MajorDia>
+        <PitchDia>2.46</PitchDia>
+        <MinorDia>2.287</MinorDia>
+        <TapDrill>2.1</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
     <Size>3.00(M3)</Size>
     <Designation>
       <ThreadDesignation>M3x.5 Heli</ThreadDesignation>
